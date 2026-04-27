@@ -11380,6 +11380,35 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 0}
   m_SourcePrefab: {fileID: 100100000, guid: cf2650c689631486fa8375df285a6139, type: 3}
+--- !u!1 &1639885814 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3950292557532460838, guid: 301c5c335c239624d9220eca641f78ae, type: 3}
+  m_PrefabInstance: {fileID: 1737917214}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1639885816
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1639885814}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5760b60da046f4e149d650596907aae8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::SceneChanger
+  sceneName: WinScreen
+--- !u!114 &1639885817 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4085840579591815735, guid: 301c5c335c239624d9220eca641f78ae, type: 3}
+  m_PrefabInstance: {fileID: 1737917214}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1639885814}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9cee0b13d7e7465aa1f5df8f42e8df8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1664328015
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11828,6 +11857,50 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1209668417}
     m_Modifications:
+    - target: {fileID: 361521627589326767, guid: 301c5c335c239624d9220eca641f78ae, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 361521627589326767, guid: 301c5c335c239624d9220eca641f78ae, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[2].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 361521627589326767, guid: 301c5c335c239624d9220eca641f78ae, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[3].m_Mode
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 361521627589326767, guid: 301c5c335c239624d9220eca641f78ae, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[2].m_Target
+      value: 
+      objectReference: {fileID: 1639885816}
+    - target: {fileID: 361521627589326767, guid: 301c5c335c239624d9220eca641f78ae, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[3].m_Target
+      value: 
+      objectReference: {fileID: 1639885817}
+    - target: {fileID: 361521627589326767, guid: 301c5c335c239624d9220eca641f78ae, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[3].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 361521627589326767, guid: 301c5c335c239624d9220eca641f78ae, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
+      value: LoadNextScene
+      objectReference: {fileID: 0}
+    - target: {fileID: 361521627589326767, guid: 301c5c335c239624d9220eca641f78ae, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[3].m_MethodName
+      value: SpawnObject
+      objectReference: {fileID: 0}
+    - target: {fileID: 361521627589326767, guid: 301c5c335c239624d9220eca641f78ae, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[2].m_TargetAssemblyTypeName
+      value: SceneChanger, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 361521627589326767, guid: 301c5c335c239624d9220eca641f78ae, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[3].m_TargetAssemblyTypeName
+      value: ObjectSpawner, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 361521627589326767, guid: 301c5c335c239624d9220eca641f78ae, type: 3}
+      propertyPath: triggerEnterEvent.m_PersistentCalls.m_Calls.Array.data[3].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
     - target: {fileID: 4410056040862563010, guid: 301c5c335c239624d9220eca641f78ae, type: 3}
       propertyPath: m_Name
       value: Checkpoint
@@ -11879,7 +11952,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 3950292557532460838, guid: 301c5c335c239624d9220eca641f78ae, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1639885816}
   m_SourcePrefab: {fileID: 100100000, guid: 301c5c335c239624d9220eca641f78ae, type: 3}
 --- !u!4 &1752605756 stripped
 Transform:
