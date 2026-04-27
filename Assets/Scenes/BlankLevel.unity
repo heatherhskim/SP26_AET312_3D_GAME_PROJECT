@@ -286,6 +286,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (40)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fb9258cdbab06054a9e288f0374fb202, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 9.350083
@@ -447,6 +451,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 544288fd7b60a854e96b0183b2a4e9e8, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 89.18136
@@ -572,6 +580,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: StaticBox (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 8763418669655154348, guid: a3804a14101c649308a012592697c086, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 628888bd100ed3a4fa8bcd4901276f09, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -655,6 +667,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 544288fd7b60a854e96b0183b2a4e9e8, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 89.18136
@@ -841,7 +857,7 @@ PrefabInstance:
     - target: {fileID: 8763418669655154348, guid: a3804a14101c649308a012592697c086, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: fc2874b38567e43b2aed91a28b79f692, type: 2}
+      objectReference: {fileID: 2100000, guid: 7ec9fd6eae8c42b4092c97d556ed7cb7, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1032,7 +1048,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4866281788019643325, guid: a3804a14101c649308a012592697c086, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 3.5000014
+      value: 1.8900008
       objectReference: {fileID: 0}
     - target: {fileID: 4866281788019643325, guid: a3804a14101c649308a012592697c086, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1070,6 +1086,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: StaticBox (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 8763418669655154348, guid: a3804a14101c649308a012592697c086, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 628888bd100ed3a4fa8bcd4901276f09, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1152,7 +1172,7 @@ PrefabInstance:
     - target: {fileID: 8763418669655154348, guid: a3804a14101c649308a012592697c086, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: fc2874b38567e43b2aed91a28b79f692, type: 2}
+      objectReference: {fileID: 2100000, guid: 7ec9fd6eae8c42b4092c97d556ed7cb7, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1323,6 +1343,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 544288fd7b60a854e96b0183b2a4e9e8, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 89.480286
@@ -1407,6 +1431,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (38)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fb9258cdbab06054a9e288f0374fb202, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 11.978602
@@ -1524,6 +1552,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: StaticBox (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 8763418669655154348, guid: a3804a14101c649308a012592697c086, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f9464d6a1a6f1004992042f9b6d14f31, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1804,6 +1836,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: StaticBox (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8763418669655154348, guid: a3804a14101c649308a012592697c086, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f9464d6a1a6f1004992042f9b6d14f31, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1910,6 +1946,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (23)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fb9258cdbab06054a9e288f0374fb202, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 6.813414
@@ -2163,6 +2203,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 544288fd7b60a854e96b0183b2a4e9e8, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 30.052809
@@ -2232,6 +2276,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (31)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fb9258cdbab06054a9e288f0374fb202, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 15.48021
@@ -2306,6 +2354,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 544288fd7b60a854e96b0183b2a4e9e8, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 29.724691
@@ -2649,7 +2701,7 @@ PrefabInstance:
     - target: {fileID: 8763418669655154348, guid: a3804a14101c649308a012592697c086, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: fc2874b38567e43b2aed91a28b79f692, type: 2}
+      objectReference: {fileID: 2100000, guid: 7ec9fd6eae8c42b4092c97d556ed7cb7, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2677,6 +2729,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 544288fd7b60a854e96b0183b2a4e9e8, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 29.724691
@@ -2900,7 +2956,7 @@ PrefabInstance:
     - target: {fileID: 8763418669655154348, guid: a3804a14101c649308a012592697c086, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: fc2874b38567e43b2aed91a28b79f692, type: 2}
+      objectReference: {fileID: 2100000, guid: 7ec9fd6eae8c42b4092c97d556ed7cb7, type: 2}
     - target: {fileID: 8763418669655154348, guid: a3804a14101c649308a012592697c086, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
@@ -2990,6 +3046,10 @@ PrefabInstance:
       propertyPath: timedEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
       value: ResetPosition
       objectReference: {fileID: 0}
+    - target: {fileID: 7493883462624559705, guid: 9b17cdac3661e48e786fa594452cab4b, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 628888bd100ed3a4fa8bcd4901276f09, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 8386119710137210824, guid: 9b17cdac3661e48e786fa594452cab4b, type: 3}
@@ -3161,7 +3221,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4866281788019643325, guid: a3804a14101c649308a012592697c086, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 3.5000014
+      value: 1.8900008
       objectReference: {fileID: 0}
     - target: {fileID: 4866281788019643325, guid: a3804a14101c649308a012592697c086, type: 3}
       propertyPath: m_LocalRotation.w
@@ -3199,6 +3259,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: StaticBox (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 8763418669655154348, guid: a3804a14101c649308a012592697c086, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 628888bd100ed3a4fa8bcd4901276f09, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3216,6 +3280,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (43)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fb9258cdbab06054a9e288f0374fb202, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 11.402597
@@ -3295,6 +3363,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (16)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fb9258cdbab06054a9e288f0374fb202, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 61.77593
@@ -3666,6 +3738,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (41)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fb9258cdbab06054a9e288f0374fb202, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 6.200207
@@ -3756,6 +3832,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 544288fd7b60a854e96b0183b2a4e9e8, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 11.611966
@@ -4428,6 +4508,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (34)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fb9258cdbab06054a9e288f0374fb202, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 11.402597
@@ -4782,6 +4866,10 @@ PrefabInstance:
       propertyPath: timedEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
       value: ResetPosition
       objectReference: {fileID: 0}
+    - target: {fileID: 7493883462624559705, guid: 9b17cdac3661e48e786fa594452cab4b, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 628888bd100ed3a4fa8bcd4901276f09, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 8386119710137210824, guid: 9b17cdac3661e48e786fa594452cab4b, type: 3}
@@ -5133,6 +5221,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (27)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fb9258cdbab06054a9e288f0374fb202, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 5.8655057
@@ -5326,6 +5418,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: StaticBox
       objectReference: {fileID: 0}
+    - target: {fileID: 8763418669655154348, guid: a3804a14101c649308a012592697c086, type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8763418669655154348, guid: a3804a14101c649308a012592697c086, type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f9464d6a1a6f1004992042f9b6d14f31, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5694,6 +5794,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 544288fd7b60a854e96b0183b2a4e9e8, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 200.2548
@@ -5884,6 +5988,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: StaticBox (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8763418669655154348, guid: a3804a14101c649308a012592697c086, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f9464d6a1a6f1004992042f9b6d14f31, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5916,6 +6024,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (29)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fb9258cdbab06054a9e288f0374fb202, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 14.2544
@@ -6053,6 +6165,10 @@ PrefabInstance:
       propertyPath: timedEvent.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
       value: ResetPosition
       objectReference: {fileID: 0}
+    - target: {fileID: 7493883462624559705, guid: 9b17cdac3661e48e786fa594452cab4b, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 628888bd100ed3a4fa8bcd4901276f09, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 8386119710137210824, guid: 9b17cdac3661e48e786fa594452cab4b, type: 3}
@@ -6383,6 +6499,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: StaticBox (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 8763418669655154348, guid: a3804a14101c649308a012592697c086, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 628888bd100ed3a4fa8bcd4901276f09, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6416,6 +6536,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (35)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fb9258cdbab06054a9e288f0374fb202, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 11.402597
@@ -6635,7 +6759,7 @@ PrefabInstance:
     - target: {fileID: 8763418669655154348, guid: a3804a14101c649308a012592697c086, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: fc2874b38567e43b2aed91a28b79f692, type: 2}
+      objectReference: {fileID: 2100000, guid: 7ec9fd6eae8c42b4092c97d556ed7cb7, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6713,7 +6837,7 @@ PrefabInstance:
     - target: {fileID: 8763418669655154348, guid: a3804a14101c649308a012592697c086, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: fc2874b38567e43b2aed91a28b79f692, type: 2}
+      objectReference: {fileID: 2100000, guid: 7ec9fd6eae8c42b4092c97d556ed7cb7, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -6810,6 +6934,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (13)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 544288fd7b60a854e96b0183b2a4e9e8, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 89.480286
@@ -7176,6 +7304,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: StaticBox (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 8763418669655154348, guid: a3804a14101c649308a012592697c086, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f9464d6a1a6f1004992042f9b6d14f31, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -7338,6 +7470,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (39)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fb9258cdbab06054a9e288f0374fb202, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 5.7990537
@@ -7417,6 +7553,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f9464d6a1a6f1004992042f9b6d14f31, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 29.724691
@@ -8156,6 +8296,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: StaticBox (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 8763418669655154348, guid: a3804a14101c649308a012592697c086, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 628888bd100ed3a4fa8bcd4901276f09, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8198,6 +8342,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 544288fd7b60a854e96b0183b2a4e9e8, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 89.18136
@@ -8267,6 +8415,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (26)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fb9258cdbab06054a9e288f0374fb202, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 81.801094
@@ -8578,6 +8730,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 544288fd7b60a854e96b0183b2a4e9e8, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 30.052809
@@ -8831,6 +8987,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (30)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fb9258cdbab06054a9e288f0374fb202, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 17.22188
@@ -8961,6 +9121,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: StaticBox (12)
       objectReference: {fileID: 0}
+    - target: {fileID: 8763418669655154348, guid: a3804a14101c649308a012592697c086, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 628888bd100ed3a4fa8bcd4901276f09, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9173,6 +9337,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (22)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fb9258cdbab06054a9e288f0374fb202, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 22.700787
@@ -9487,6 +9655,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (36)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fb9258cdbab06054a9e288f0374fb202, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 5.7990537
@@ -9675,6 +9847,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: StaticBox (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 8763418669655154348, guid: a3804a14101c649308a012592697c086, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f9464d6a1a6f1004992042f9b6d14f31, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9692,6 +9868,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 544288fd7b60a854e96b0183b2a4e9e8, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 190.37546
@@ -9842,6 +10022,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 544288fd7b60a854e96b0183b2a4e9e8, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 29.724691
@@ -10131,7 +10315,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4866281788019643325, guid: a3804a14101c649308a012592697c086, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 3.5000014
+      value: 1.89
       objectReference: {fileID: 0}
     - target: {fileID: 4866281788019643325, guid: a3804a14101c649308a012592697c086, type: 3}
       propertyPath: m_LocalRotation.w
@@ -10169,6 +10353,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: StaticBox (11)
       objectReference: {fileID: 0}
+    - target: {fileID: 8763418669655154348, guid: a3804a14101c649308a012592697c086, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 628888bd100ed3a4fa8bcd4901276f09, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10191,6 +10379,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (20)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fb9258cdbab06054a9e288f0374fb202, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 9.422047
@@ -10399,6 +10591,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (19)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fb9258cdbab06054a9e288f0374fb202, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 133.06561
@@ -10468,6 +10664,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (33)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fb9258cdbab06054a9e288f0374fb202, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 11.54635
@@ -10537,6 +10737,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 544288fd7b60a854e96b0183b2a4e9e8, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 89.18136
@@ -10559,7 +10763,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -70.9399
+      value: -69.1
       objectReference: {fileID: 0}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalRotation.w
@@ -10776,6 +10980,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (18)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fb9258cdbab06054a9e288f0374fb202, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 30.052809
@@ -10855,6 +11063,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (21)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fb9258cdbab06054a9e288f0374fb202, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 16.405008
@@ -11319,6 +11531,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: StaticBox (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8763418669655154348, guid: a3804a14101c649308a012592697c086, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f9464d6a1a6f1004992042f9b6d14f31, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11396,7 +11612,7 @@ PrefabInstance:
     - target: {fileID: 8763418669655154348, guid: a3804a14101c649308a012592697c086, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: fc2874b38567e43b2aed91a28b79f692, type: 2}
+      objectReference: {fileID: 2100000, guid: 7ec9fd6eae8c42b4092c97d556ed7cb7, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11419,6 +11635,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (42)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fb9258cdbab06054a9e288f0374fb202, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 6.200207
@@ -11541,6 +11761,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: StaticBox (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 8763418669655154348, guid: a3804a14101c649308a012592697c086, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f9464d6a1a6f1004992042f9b6d14f31, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11613,7 +11837,7 @@ PrefabInstance:
     - target: {fileID: 8763418669655154348, guid: a3804a14101c649308a012592697c086, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: fc2874b38567e43b2aed91a28b79f692, type: 2}
+      objectReference: {fileID: 2100000, guid: 7ec9fd6eae8c42b4092c97d556ed7cb7, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11636,6 +11860,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (32)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fb9258cdbab06054a9e288f0374fb202, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 6.813414
@@ -12018,7 +12246,7 @@ PrefabInstance:
     - target: {fileID: 8763418669655154348, guid: a3804a14101c649308a012592697c086, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: fc2874b38567e43b2aed91a28b79f692, type: 2}
+      objectReference: {fileID: 2100000, guid: 7ec9fd6eae8c42b4092c97d556ed7cb7, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -12230,7 +12458,7 @@ PrefabInstance:
     - target: {fileID: 8763418669655154348, guid: a3804a14101c649308a012592697c086, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: fc2874b38567e43b2aed91a28b79f692, type: 2}
+      objectReference: {fileID: 2100000, guid: 7ec9fd6eae8c42b4092c97d556ed7cb7, type: 2}
     - target: {fileID: 8763418669655154348, guid: a3804a14101c649308a012592697c086, type: 3}
       propertyPath: 'm_Materials.Array.data[1]'
       value: 
@@ -12401,6 +12629,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (37)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fb9258cdbab06054a9e288f0374fb202, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 5.164279
@@ -12596,6 +12828,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (10)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: f9464d6a1a6f1004992042f9b6d14f31, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 30.052809
@@ -12736,6 +12972,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (28)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fb9258cdbab06054a9e288f0374fb202, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 8.843071
@@ -13049,6 +13289,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (17)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: fb9258cdbab06054a9e288f0374fb202, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 40.021507
@@ -13307,6 +13551,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: StaticBox (14)
       objectReference: {fileID: 0}
+    - target: {fileID: 8763418669655154348, guid: a3804a14101c649308a012592697c086, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 628888bd100ed3a4fa8bcd4901276f09, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -13324,6 +13572,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: UnClimbableWall (15)
       objectReference: {fileID: 0}
+    - target: {fileID: 1288030071000388942, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 544288fd7b60a854e96b0183b2a4e9e8, type: 2}
     - target: {fileID: 6619519570920149188, guid: 831afffee7b464a5bb776e90d59f19f0, type: 3}
       propertyPath: m_LocalScale.x
       value: 30.052809
